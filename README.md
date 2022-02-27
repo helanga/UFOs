@@ -12,5 +12,6 @@ Filtering by input values:
 
  - By Event Date:
 
-  when user enters a date,updated table will display ,data with disired date
-  ![](challenge/images/filtdate.PNG)
+     when user enters a date,updated table will display ,data with disired date
+     
+     ![](challenge/images/filtdate.PNG)
