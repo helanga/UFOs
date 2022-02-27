@@ -36,5 +36,15 @@ Filtering by a input value:
     
     ![](challenge/images/coun&shape.PNG))
      
-    - Accordingly upto all fiter parameters can be entered.
+  - Accordingly upto all fiter parameters can be entered.
      
+     
+## Summery
+
+Draw backs of this web page:
+- with this critirea only the user can filter data for singuler date.
+- user has to memorize city state or country.
+  Recormendation
+  
+  - It's recomended to add date range for filter funtion instead of one date.
+  - Instead of looking at table and enter the disires city,state,country or shape valus if we can provide drop down box to select then it will be more user friendly.
