@@ -36,4 +36,5 @@ Filtering by a input value:
     
     ![](challenge/images/coun&shape.PNG))
      
+    - Accordingly upto all fiter parameters can be entered.
      
