@@ -6,4 +6,4 @@ In more concrete terms, I had built a table to hold and neatly displayed the dat
 
 ## Results
 UFO Sightings
-![](
+![](challenge/images/ufo.PNG)
