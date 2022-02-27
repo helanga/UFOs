@@ -15,3 +15,10 @@ Filtering by input values:
      when user enters a date,updated table will display ,data with disired date
      
      ![](challenge/images/filtdate.PNG)
+     
+  - By city
+  
+      when user enters a city,updated table will display accordingly.
+     
+      ![](challenge/images/filtcity.PNG)
+     
