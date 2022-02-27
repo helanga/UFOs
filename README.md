@@ -8,7 +8,7 @@ In more concrete terms, I had built a table to hold and neatly displayed the dat
 UFO Sightings
 ![](challenge/images/ufo.PNG)
 
-Filtering by input values:
+Filtering by a input value:
 
  - By Event Date:
 
@@ -21,4 +21,19 @@ Filtering by input values:
       when user enters a city,updated table will display accordingly.
      
       ![](challenge/images/filtcity.PNG)
+     
+  - By state
+  
+     when user entres the disired state table will update and display accordingly.
+     
+      ![](challenge/images/filtstate.PNG)
+      
+ Filtering by multiple values:
+ 
+  - By Country and shape
+  
+    when user enters country and shape updated table will display accordingly.
+    
+    ![](challenge/images/coun&shape.PNG))
+     
      
