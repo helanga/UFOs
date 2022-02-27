@@ -43,7 +43,8 @@ Filtering by a input value:
 
 Draw backs of this web page:
 - with this critirea only the user can filter data for singuler date.
-- user has to memorize city state or country.
+- user has to looking at the tabel and memorize city state or country  to input
+  
   Recormendation
   
   - It's recomended to add date range for filter funtion instead of one date.
