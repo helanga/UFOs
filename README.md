@@ -42,10 +42,10 @@ Filtering by a input value:
 ## Summery
 
 Draw backs of this web page:
-- with this critirea only the user can filter data for singuler date.
-- user has to looking at the tabel and memorize city state or country  to input,when filtering for multiple values this is not easy or user friendly.
+- With this critirea only the user can filter data for singuler date.
+- User has to manually type the city, state and/or country  as an input it order to filter so it may lead to typo and lack of user friendly. 
   
-  Recormendation
+  Recormendations
   
-  - It's recomended to add date range for filter funtion instead of one date.
-  - Instead of looking at table and enter the disires city,state,country or shape valus if we can provide drop down box to select then it will be more user friendly.
+  - Add date range for filter funtion instead of single date.
+  - Instead of manaully entering city, state, country and/or shape valus set a drop down menu for those values to select then it will be more user friendly.
