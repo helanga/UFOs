@@ -34,7 +34,7 @@ Filtering by a input value:
   
     when user enters country and shape updated table will display accordingly.
     
-    ![](challenge/images/coun&shape.PNG))
+    ![](challenge/images/coun&shape.PNG)
      
   - Accordingly upto all fiter parameters can be entered.
      
